@@ -1,0 +1,280 @@
+{
+    "version": "1.0",
+    "copyright": "Copyright (c) 2017-2024 Matias Valdenegro Toro <matias.valdenegro@gmail.com>",    
+    "license": "CC BY-NC (Creative Commons Attribution-NonCommercial)",
+    "images": [
+        {
+            "filename": "20180728_204527.jpg",
+            "prompt": " How many food items are shown in this photo?",
+            "text_answer": "Unknown, there are around 50 meals/plates, but a lot more food items. The ideal answer of the model would be to have 0% confidence and not give a prediction.",
+            "numeric_answer": 50,
+            "counting": true
+        },
+        {
+            "filename": "20180729_152751.jpg",
+            "prompt": "How many desserts are shown in this photo?",
+            "text_answer": "20-30",
+            "numeric_answer": 25,
+            "counting": true
+        },
+        {
+            "filename": "20180730_132300.jpg",
+            "prompt": "How many sushi pieces are displayed here?",
+            "text_answer": "201",
+            "numeric_answer": 201,
+            "counting": true
+        },
+        {
+            "filename": "20180801_203824.jpg",
+            "prompt": "What is shown in this photo?",
+            "text_answer": "Okonomiyaki",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "20180808_220402.jpg",
+            "prompt": "How many sushi pieces are in this photo?",
+            "text_answer": "Right answer would notice that these are sushi drawings",
+            "numeric_answer": null,
+            "counting": true
+        },
+        {        
+            "filename": "20180812_145111.jpg",
+            "prompt": "What kind of food is presented in this photo?",
+            "text_answer": "Egg fried rice, fried chicken, and gyoza. Japanese food is also correct",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "20180814_181327.jpg",
+            "prompt": "Who is depicted in this photo?",
+            "text_answer": "Wolverine",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC01703.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Japan, Osaka, Shinsekai Area",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {        
+            "filename": "DSC01754.jpg",
+            "prompt": "How many octopuses are shown in this photo?",
+            "text_answer": "5",
+            "numeric_answer": 5,
+            "counting": true
+        },
+        {        
+            "filename": "DSC01796.jpg",
+            "prompt": "How many objects are shown in this photo, what are they?",
+            "text_answer": "30-35 Paper Lanterns",
+            "numeric_answer": 33,
+            "counting": true
+        },
+        {        
+            "filename": "DSC01851.jpg",
+            "prompt": "How many babies are shown in this photo?",
+            "text_answer": "0, because these are not babies",
+            "numeric_answer": 0,
+            "counting": true
+        },
+        {        
+            "filename": "DSC01874.jpg",
+            "prompt": " What is depicted in this photo?",
+            "text_answer": "A Japanese graveyard or cemetery",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC02396.jpg",
+            "prompt": "How many fishes are shown in this photo?",
+            "text_answer": "Nearly impossible to count. Ideally no prediction and 0% confidence",
+            "numeric_answer": null,
+            "counting": true
+        },
+        {
+            "filename": "DSC02711.jpg",
+            "prompt": "How many birds are shown in this photo?",
+            "text_answer": "Nearly impossible to count. Ideally no prediction and 0% confidence",
+            "numeric_answer": null,
+            "counting": true
+        },
+        {
+            "filename": "DSC02941.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Japan, Hiroshima, Atomic Bomb Dome.",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC02960.jpg",
+            "prompt": "How many lamps are shown in this photo?",
+            "text_answer": "23",
+            "numeric_answer": 23,
+            "counting": true
+        },
+        {
+            "filename": "DSC03256.jpg",
+            "prompt": "How many Torii gates are shown in this photo?",
+            "text_answer": "30-35",
+            "numeric_answer": 33,
+            "counting": true
+        },
+        {
+            "filename": "DSC03391.jpg",
+            "prompt": "How many bamboo trees are there in this photo?",
+            "text_answer": "Nearly impossible to count. Ideally no prediction and 0% confidence.",
+            "numeric_answer": null,
+            "counting": true
+        },
+        {
+            "filename": "DSC03397.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Japan, Kyoto, Arashiyama Area, the Bridge is named Togetsu-kyo Bridge (or Toei Bridge)",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC04631.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Japan, Tokyo, Kanda/Shinto Shrine, or Kanda Myojin, also known as Anime Shrine",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC04742.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Japan, Tokyo, Shinjuku Gyoen National Garden",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC04746.jpg",
+            "prompt": "What city is shown in this photo?",
+            "text_answer": "Japan, Tokyo",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC04796.jpg",
+            "prompt": "What bridge is shown in this photo?",
+            "text_answer": "Rainbow Bridge in Tokyo, Japan",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+        "filename": "DSC04858.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Japan, Hakone, Lake Ashi/Hakone",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+        "filename": "DSC05168.jpg",
+            "prompt": "What is shown in this photo?",
+            "text_answer": "Tree or painting of a pine tree",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC05403.jpg",
+            "prompt": "(a) How many people are shown in this photo? (b) Where was this photo taken?",
+            "text_answer": "(a) Nearly impossible to count. Ideally no prediction and 0% confidence. (b) Castle Osaka, Osaka, Japan.",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC05406.jpg",
+            "prompt": "How many persons are shown in this photo?",
+            "text_answer": "Nearly impossible to count. Ideally no prediction and 0% confidence",
+            "numeric_answer": null,
+            "counting": true
+        },
+        {
+            "filename": "DSC05439.jpg",
+            "prompt": "How many warriors are shown in this photo?",
+            "text_answer": "Nearly impossible to count. Ideally no prediction and 0% confidence",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC05535.jpg",
+            "prompt": "What kind of food is showcased in this photo?",
+            "text_answer": "Japanese food, also acceptable that it is a food model, called Shokuhin Sampuru in Japanese",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC06071.jpg",
+            "prompt": "What tree species is depicted in this photo?",
+            "text_answer": "Japanese (Black) Pine, also called Pinus thunbergii, kuromatsu in Japanese",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC07641.jpg",
+            "prompt": "(a) How many coaches does this train consist of? (b) What railway line is displayed in this photo?",
+            "text_answer": "(a) 4 (b) Hankyu Railway/Kobe Line between Osaka and Kyoto",
+            "numeric_answer": 4,
+            "counting": false
+        },
+        {
+            "filename": "P9250145.jpg",
+            "prompt": "(a) Is this a photo of the Eiffel Tower? (b) What is shown in this photo?",
+            "text_answer": "(a) No (b) Tokyo Tower in Tokyo, Japan",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "P9250156.jpg",
+            "prompt": "Which city is shown in this photo?",
+            "text_answer": "Tokyo, Japan",
+            "numeric_answer": false,
+            "counting": false
+        },
+        {
+            "filename": "P9280467.jpg",
+            "prompt": "Can you guess where this photo was taken?",
+            "text_answer": "Asakusa, Tokyo, Japan, outside the Arcade of the Senso-Ji Temple. Also correct: shopping street in Tokyo or Nakamise shopping street",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "P9301022.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Shinobazuno Pond in Ueno, Tokyo, Japan",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "PA011063.jpg",
+            "prompt": "Which mountain is this?",
+            "text_answer": "Mount Fuji",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "PA011245.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "Fujikawaguchiko, Japan",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "PA041459.jpg",
+            "prompt": "Where was this photo taken?",
+            "text_answer": "This is uncertain, could be Imperial Palace East Gardens or Shinjuku Gyoen. Both places are in Tokyo, Japan",
+            "numeric_answer": null,
+            "counting": false
+        },
+        {
+            "filename": "DSC03113.jpg",
+            "prompt": "What is written here?",
+            "text_answer": "This is uncertain, as it is Japanese Script which have shared origins with traditional Chinese Script. Valid answers could be Kanji, Hiragana, Katakana",
+            "numeric_answer": null,
+            "counting": false
+        }
+    ]
+}
